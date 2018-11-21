@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Nov 2018 22:57:10 at https://rchintan21.000webhostapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rchintan21.000webhostapp.com/ -O1 "C:\Users\chint\OneDrive\Desktop\site\sid992r" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:57:15	Warning: 	Note: due to https://rchintan21.000webhostapp.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:57:53	Error: 	"Method Not Allowed" (405) at link https://rchintan21.000webhostapp.com/xmlrpc.php (from https://rchintan21.000webhostapp.com/)
+22:57:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rchintan21.000webhostapp.com/comments/feed (from https://rchintan21.000webhostapp.com/)
+22:59:31	Warning: 	File not parsed, looks like binary: https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+22:59:31	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/blank.gif (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:31	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay1.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:31	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay2.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:31	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay3.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:31	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay4.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay5.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay6.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay7.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay8.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay9.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Error: 	"Not Found" (404) at link https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/img/patterns/overlay10.png (from https://rchintan21.000webhostapp.com/wp-content/themes/agama/assets/css/camera.min.css?ver=1.3.8)
+22:59:32	Warning: 	Moved Permanently for https://rchintan21.000webhostapp.com/?p=14
+22:59:32	Warning: 	File has moved from https://rchintan21.000webhostapp.com/?p=14 to https://rchintan21.000webhostapp.com/updates
+22:59:32	Warning: 	Moved Permanently for https://rchintan21.000webhostapp.com/?p=43
+22:59:32	Warning: 	File has moved from https://rchintan21.000webhostapp.com/?p=43 to https://rchintan21.000webhostapp.com/2018/11/43
+22:59:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rchintan21.000webhostapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frchintan21.000webhostapp.com%2F2018%2F11%2F43&format=xml (from https://rchintan21.000webhostapp.com/2018/11/43)
+22:59:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rchintan21.000webhostapp.com/wp-includes/js/comment-reply.min.js?ver=4.9.8 (from https://rchintan21.000webhostapp.com/2018/11/43)
+22:59:32	Warning: 	Moved Permanently for https://rchintan21.000webhostapp.com/?p=23
+22:59:32	Warning: 	File has moved from https://rchintan21.000webhostapp.com/?p=23 to https://rchintan21.000webhostapp.com/2018/11/fantastic-beasts-the-crimes-of-grindelwald
+22:59:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rchintan21.000webhostapp.com/tag/grindelwald (from https://rchintan21.000webhostapp.com/2018/11/fantastic-beasts-the-crimes-of-grindelwald)
+22:59:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rchintan21.000webhostapp.com/wp-includes/js/comment-reply.min.js?ver=4.9.8 (from https://rchintan21.000webhostapp.com/2018/11/43)
+22:59:49	Error: 	Unable to save file C:/Users/chint/OneDrive/Desktop/site/sid992r/rchintan21.000webhostapp.com/tag/grindelwald: Permission denied
+22:59:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://rchintan21.000webhostapp.com/tag/of/feed (from https://rchintan21.000webhostapp.com/tag/of)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 41 seconds : 86 links scanned, 64 files written (3235612 bytes overall) [2198174 bytes received at 13653 bytes/sec], 2054354 bytes transferred using HTTP compression in 48 files, ratio 35%, 5.5 requests per connection
+(13 errors, 14 warnings, 0 messages)
